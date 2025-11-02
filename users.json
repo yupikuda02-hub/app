@@ -1,117 +1,17 @@
 {
   "app_name": "DarkSilentXP",
-  "created_at": "2025-11-02 21:23:51",
+  "created_at": "2025-11-03 01:31:32",
   "users": [
     {
-      "user_id": "user_1762069114280_e6b25ded",
-      "session_id": "971e3906-9ce6-4040-914e-3ef4271bce63",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 21:23:50",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762069114280_e6b25ded",
-      "session_id": "19da3c3a-b1ec-4a37-be55-d202504ec5f2",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 21:44:17",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762069114280_e6b25ded",
-      "session_id": "3e2de49f-929e-485d-9584-0347eccb921c",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 21:51:39",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
       "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "f99e452e-bd67-43b7-a144-0012d482b2a9",
+      "session_id": "96a09c73-93ef-4370-95bd-8bcbd1eb4a73",
       "device_id": "35d6248c00cb40d5",
       "device_model": "Infinix X657B",
       "android_version": "11",
-      "login_time": "2025-11-02 22:10:17",
-      "app_version": "1.0",
-      "is_first_launch": true
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "776a65f6-46fc-4193-b4e4-5661d60b5ccc",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 22:27:54",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "4982afbf-c07d-4926-9fae-8b41a070459c",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 22:44:51",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "f9d0d686-0355-4b26-8ecc-cd1e6dd1a8f9",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 22:46:18",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "5f6b1d8a-10d1-49c0-bffc-d330d06a9f89",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 22:52:35",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "efcf5483-7f33-4512-a9bc-aeb354a835a9",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-02 23:06:28",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "db4c26d9-3a70-480c-98f9-894df8abd8de",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-03 00:42:13",
-      "app_version": "1.0",
-      "is_first_launch": false
-    },
-    {
-      "user_id": "user_1762096217603_5223b6c8",
-      "session_id": "5e882036-ee59-43a2-9951-be76625efbca",
-      "device_id": "35d6248c00cb40d5",
-      "device_model": "Infinix X657B",
-      "android_version": "11",
-      "login_time": "2025-11-03 01:05:20",
+      "login_time": "2025-11-03 01:31:21",
       "app_version": "1.0",
       "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-03 01:05:22"
+  "last_updated": "2025-11-03 01:31:32"
 }
