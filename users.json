@@ -71,7 +71,17 @@
       "login_time": "2025-11-02 22:46:18",
       "app_version": "1.0",
       "is_first_launch": false
+    },
+    {
+      "user_id": "user_1762096217603_5223b6c8",
+      "session_id": "5f6b1d8a-10d1-49c0-bffc-d330d06a9f89",
+      "device_id": "35d6248c00cb40d5",
+      "device_model": "Infinix X657B",
+      "android_version": "11",
+      "login_time": "2025-11-02 22:52:35",
+      "app_version": "1.0",
+      "is_first_launch": false
     }
   ],
-  "last_updated": "2025-11-02 22:46:19"
+  "last_updated": "2025-11-02 22:52:36"
 }
